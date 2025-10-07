@@ -1,4 +1,4 @@
- Customer Churn Prediction
+# Customer Churn Prediction
 
 Machine learning project to predict which customers will leave a company.
 
